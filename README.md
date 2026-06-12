@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shivansh Gupta</h1>
 
 <h3 align="center">
-I am a Computer Science student specializing in Data Science, passionate about problem-solving, backend development, and artificial intelligence, constantly working to strengthen my technical foundations and build impactful solutions.
+I am a Computer Science student specializing in Data Science, passionate about problem-solving, backend development, and artificial intelligence, continuously strengthening my technical foundations and building impactful software solutions.
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Development+Learner;Python+Developer;DSA+Practitioner;Aspiring+Software+Engineer;Exploring+Artificial+Intelligence" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/shivanshgupta07" target="_blank">
@@ -34,7 +38,7 @@ Beginner-friendly backend projects, open-source contributions, and learning-focu
 Backend development, system design fundamentals, and improving project-building skills.
 
 🌱 **I’m currently learning**
-Data Structures & Algorithms, DBMS, and improving my C++ for technical interviews.
+Data Structures & Algorithms, Database Management Systems, and improving my C++ for technical interviews.
 
 💬 **Ask me about**
 Python, DSA, OOPs, DBMS, and Git/GitHub.
@@ -44,7 +48,6 @@ Python, DSA, OOPs, DBMS, and Git/GitHub.
 
 👨‍💻 **All of my projects are available at**
 https://github.com/shivanshguptaa070-del
-
 
 ⚡ **Fun fact**
 I believe consistency and discipline are the strongest multipliers for growth.
@@ -86,6 +89,18 @@ I believe consistency and discipline are the strongest multipliers for growth.
 → Building stronger development fundamentals
 → Preparing for internships
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshguptaa070-del&show_icons=true&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshguptaa070-del&layout=compact&hide_border=true" />
+</p>
 
 ---
 
