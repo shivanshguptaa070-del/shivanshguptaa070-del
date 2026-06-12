@@ -82,7 +82,7 @@ I believe consistency and discipline are the strongest multipliers for growth.
 
 ## 🎯 Current Focus
 
-```txt
+```txt id="m2v7qd"
 → Mastering DSA
 → Transitioning from Python to C++ for interviews
 → Strengthening DBMS concepts
@@ -100,6 +100,22 @@ I believe consistency and discipline are the strongest multipliers for growth.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshguptaa070-del&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshguptaa070-del&theme=github-light&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivanshguptaa070-del&hide_border=true&theme=default" />
 </p>
 
 ---
