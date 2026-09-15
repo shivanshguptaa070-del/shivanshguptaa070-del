@@ -12,9 +12,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: shivanshguptaa070-del
-      - uses: crazy-max/ghaction-github-pages@v3
+          SETTING_JSON: '{"backgroundColor":"#00000000","type":"normal","imageOptimize":false}'
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: profile-3d-contrib
+          destination_dir: profile-3d-contrib
+          keep_files: true
