@@ -167,46 +167,43 @@
 
 </details>
 
-<details open>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shivanshguptaa070-del&theme=flat&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
-
-</div>
-</details>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 📊 GitHub Stats
-
-<details open>
-<summary><b>📈 Statistics</b></summary>
-<br>
+## 🏙️ 3D Contribution City
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivanshguptaa070-del&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshguptaa070-del&layout=compact&hide_border=true&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/shivanshguptaa070-del/shivanshguptaa070-del/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" />
 
 </div>
 
-</details>
-
-<details open>
-<summary><b>🔥 Streak Stats</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shivanshguptaa070-del&hide_border=true&theme=tokyonight" />
-
-</div>
-</details>
+> ⚙️ **To enable this:** Add `.github/workflows/3d-contrib.yml` to your profile repo with this content:
+>
+> ```yaml
+> name: 3D Contributions
+> on:
+>   schedule:
+>     - cron: "0 18 * * *"
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: actions/checkout@v3
+>       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>           USERNAME: shivanshguptaa070-del
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: profile-3d-contrib
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> Then run it manually once from **Actions** tab — the 3D city will appear automatically!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -223,30 +220,6 @@
 </picture>
 
 </div>
-
-> **⚙️ Setup Note:** To enable the snake animation, add this GitHub Action to your profile repo at `.github/workflows/snake.yml`:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -269,8 +242,6 @@
 <div align="center">
 
 > *"Consistency compounds. Small improvements every day create massive results."*
-
-<!-- Rotating quotes via static selection — update periodically or use a GitHub Action -->
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
