@@ -179,31 +179,6 @@
 
 </div>
 
-> ⚙️ **To enable this:** Add `.github/workflows/3d-contrib.yml` to your profile repo with this content:
->
-> ```yaml
-> name: 3D Contributions
-> on:
->   schedule:
->     - cron: "0 18 * * *"
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: actions/checkout@v3
->       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->           USERNAME: shivanshguptaa070-del
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: profile-3d-contrib
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> Then run it manually once from **Actions** tab — the 3D city will appear automatically!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
