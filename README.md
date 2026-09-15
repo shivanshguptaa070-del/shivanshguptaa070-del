@@ -1,125 +1,292 @@
-<h1 align="center">Hi 👋, I'm Shivansh Gupta</h1>
+<div align="center">
 
-<h3 align="center">
-I am a Computer Science student specializing in Data Science, passionate about problem-solving, backend development, and artificial intelligence, continuously strengthening my technical foundations and building impactful software solutions.
-</h3>
+<!-- ===== WAVE BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Shivansh%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Backend%20Dev%20%7C%20AI%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Development+Learner;Python+Developer;DSA+Practitioner;Aspiring+Software+Engineer;Exploring+Artificial+Intelligence" alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/shivanshgupta07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" width="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+<div align="center">
 
-  <a href="https://leetcode.com/shivanshgupta07" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" height="42" width="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+<!-- ===== VISITOR COUNTER ===== -->
+![Visitor Count](https://komarev.com/ghpvc/?username=shivanshguptaa070-del&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/shivanshguptaa070-del?label=Followers&style=for-the-badge&color=blue)](https://github.com/shivanshguptaa070-del)
 
-  <a href="mailto:shivanshguptaa070@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45" width="45" />
-  </a>
-</p>
+<!-- ===== TYPING ANIMATION ===== -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Development+Learner+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;DSA+Practitioner+%F0%9F%A7%A0;Aspiring+Software+Engineer+%F0%9F%92%BC;Exploring+Artificial+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
 
----
+<!-- ===== SOCIAL LINKS ===== -->
+<br/>
 
-## 🚀 Work
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshgupta07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shivanshgupta07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshguptaa070@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshguptaa070-del)
 
-🔭 **I’m currently working on**
-Strengthening my problem-solving skills and building projects to improve my backend development fundamentals.
+</div>
 
-👯 **I’m looking to collaborate on**
-Beginner-friendly backend projects, open-source contributions, and learning-focused development projects.
-
-🤝 **I’m looking for help with**
-Backend development, system design fundamentals, and improving project-building skills.
-
-🌱 **I’m currently learning**
-Data Structures & Algorithms, Database Management Systems, and improving my C++ for technical interviews.
-
-💬 **Ask me about**
-Python, DSA, OOPs, DBMS, and Git/GitHub.
-
-📫 **How to reach me**
-**Email:** [shivanshguptaa070@gmail.com](mailto:shivanshguptaa070@gmail.com)
-
-👨‍💻 **All of my projects are available at**
-https://github.com/shivanshguptaa070-del
-
-⚡ **Fun fact**
-I believe consistency and discipline are the strongest multipliers for growth.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 🏆 Achievements
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-* Earned **NPTEL Certification in The Joy of Computing Using Python** from IIT Madras with a score of **96%**, securing a **Top 5%** rank among certified learners.
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivanshgupta07?theme=dark&font=Karma&ext=heatmap" />
-</p>
+🔭 **Currently Working On**
+> Strengthening problem-solving skills and building backend projects
 
----
+👯 **Looking to Collaborate On**
+> Beginner-friendly backend, open-source & learning projects
 
-## 🛠 Languages and Tools
+🤝 **Looking For Help With**
+> Backend dev, system design & project-building skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,git,github,mysql,vscode" />
-</p>
+</td>
+<td width="50%">
 
----
+🌱 **Currently Learning**
+> DSA · DBMS · C++ for technical interviews
 
-## 📚 Core Computer Science Subjects
+💬 **Ask Me About**
+> Python · DSA · OOPs · DBMS · Git/GitHub
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
+⚡ **Fun Fact**
+> *Consistency and discipline are the strongest multipliers for growth.*
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🎯 Current Focus
 
-```txt id="m2v7qd"
-→ Mastering DSA
-→ Transitioning from Python to C++ for interviews
-→ Strengthening DBMS concepts
-→ Building stronger development fundamentals
-→ Preparing for internships
+```txt
+→ 🧩 Mastering DSA
+→ ⚡ Transitioning from Python to C++ for interviews
+→ 🗄️ Strengthening DBMS concepts
+→ 🏗️ Building stronger development fundamentals
+→ 💼 Preparing for internships
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🛠️ Languages & Tools
+
+<details open>
+<summary><b>🔤 Programming Languages</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Tools</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📊 Skill Proficiency</b></summary>
+<br>
+
+| Skill | Progress |
+|-------|----------|
+| Python | ![90%](https://progress-bar.xyz/90/?title=Python&width=300&color=3776AB) |
+| Data Structures & Algorithms | ![75%](https://progress-bar.xyz/75/?title=DSA&width=300&color=F7931A) |
+| C++ | ![60%](https://progress-bar.xyz/60/?title=C%2B%2B&width=300&color=00599C) |
+| DBMS / MySQL | ![70%](https://progress-bar.xyz/70/?title=DBMS&width=300&color=00000F) |
+| OOPs | ![80%](https://progress-bar.xyz/80/?title=OOPs&width=300&color=ED8B00) |
+| Git & GitHub | ![85%](https://progress-bar.xyz/85/?title=Git&width=300&color=F05032) |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 📚 Core Computer Science Subjects
+
+<details open>
+<summary><b>Click to expand</b></summary>
+<br>
+
+| Subject | Status |
+|---------|--------|
+| 🧩 Data Structures & Algorithms | 🟡 In Progress |
+| 🏗️ Object-Oriented Programming | 🟢 Strong Foundation |
+| 🗄️ Database Management Systems | 🟡 In Progress |
+| 🔄 Operating Systems | 🔵 Planned |
+| 🌐 Computer Networks | 🔵 Planned |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🏆 Achievements & Certifications
+
+<details open>
+<summary><b>🎓 Certifications</b></summary>
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🥇 NPTEL — IIT Madras**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Score%3A%2096%25-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+**The Joy of Computing Using Python**
+📊 Score: **96%** &nbsp;|&nbsp; 🏅 **Top 5%** Nationwide
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shivanshgupta07)
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=shivanshguptaa070-del&theme=flat&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
+
+</div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshguptaa070-del&show_icons=true&hide_border=true&theme=default" />
-</p>
+<details open>
+<summary><b>📈 Statistics</b></summary>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshguptaa070-del&layout=compact&hide_border=true" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivanshguptaa070-del&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshguptaa070-del&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivanshguptaa070-del&hide_border=true&theme=tokyonight" />
+
+</div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshguptaa070-del&theme=github-light&hide_border=true" />
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanshguptaa070-del/shivanshguptaa070-del/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanshguptaa070-del/shivanshguptaa070-del/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivanshguptaa070-del/shivanshguptaa070-del/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> **⚙️ Setup Note:** To enable the snake animation, add this GitHub Action to your profile repo at `.github/workflows/snake.yml`:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 🔥 GitHub Streak
+## ⚔️ LeetCode Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivanshguptaa070-del&hide_border=true&theme=default" />
-</p>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/shivanshgupta07?theme=dark&font=Karma&ext=heatmap" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 💡 Philosophy
+## 💡 Philosophy & Motivation
 
-> *“Consistency compounds. Small improvements every day create massive results.”*
+<div align="center">
+
+> *"Consistency compounds. Small improvements every day create massive results."*
+
+<!-- Rotating quotes via static selection — update periodically or use a GitHub Action -->
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<div align="center">
+
+<!-- ===== WAVE FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7F7&height=120&section=footer&animation=fadeIn" />
+
+**⭐ If you find my profile interesting, consider following me! ⭐**
+
+*Made with ❤️ by Shivansh Gupta*
+
+</div>
